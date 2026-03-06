@@ -1,0 +1,14 @@
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\bin\Debug\net8.0\AulaListas.exe
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\bin\Debug\net8.0\AulaListas.deps.json
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\bin\Debug\net8.0\AulaListas.runtimeconfig.json
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\bin\Debug\net8.0\AulaListas.dll
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\bin\Debug\net8.0\AulaListas.pdb
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.AssemblyInfoInputs.cache
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.AssemblyInfo.cs
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.csproj.CoreCompileInputs.cache
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.dll
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\refint\AulaListas.dll
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.pdb
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\AulaListas.genruntimeconfig.cache
+C:\Users\luciana.rgirao\source\repos\AulaListas\AulaListas\obj\Debug\net8.0\ref\AulaListas.dll
